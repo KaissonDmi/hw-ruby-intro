@@ -1,0 +1,35 @@
+PART 1:
+
+C:\Ruby27-x64\bin\ruby.exe C:\Ruby27-x64\bin\rspec C:/Users/18142/RubymineProjects/hw-ruby-intro/spec/part1_spec.rb --require teamcity/spec/runner/formatter/teamcity/formatter --format Spec::Runner::Formatter::TeamcityFormatter
+Testing started at 7:47 PM ...
+
+12 examples, 0 failures, 12 passed
+
+Finished in 0.0328977 seconds
+
+Process finished with exit code 0
+
+
+PART 2:
+
+
+C:\Ruby27-x64\bin\ruby.exe C:\Ruby27-x64\bin\rspec C:/Users/18142/RubymineProjects/hw-ruby-intro/spec/part2_spec.rb --require teamcity/spec/runner/formatter/teamcity/formatter --format Spec::Runner::Formatter::TeamcityFormatter
+Testing started at 7:48 PM ...
+
+10 examples, 0 failures, 10 passed
+
+Finished in 0.0247601 seconds
+
+Process finished with exit code 0
+
+
+PART 3:
+
+C:\Ruby27-x64\bin\ruby.exe C:\Ruby27-x64\bin\rspec C:/Users/18142/RubymineProjects/hw-ruby-intro/spec/part3_spec.rb --require teamcity/spec/runner/formatter/teamcity/formatter --format Spec::Runner::Formatter::TeamcityFormatter
+Testing started at 7:49 PM ...
+
+12 examples, 0 failures, 12 passed
+
+Finished in 0.0247996 seconds
+
+Process finished with exit code 0
